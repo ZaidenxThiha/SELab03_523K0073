@@ -1,0 +1,701 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|z:\\desktop\\se lab\\selab3\\hw3app\\winformui\\studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\winformui\\studentenrollmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\studentenrollmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\winformui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\winformui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\winformui\\instructorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\instructorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\winformui\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\winformui\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\winformui\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\winformui\\courseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\courseform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\winformui\\studentenrollmentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\studentenrollmentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\winformui\\studentenrollmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\studentenrollmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\winformui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\winformui\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\winformui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\winformui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\winformui\\studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\studentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\winformui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\winformui\\instructorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\instructorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\winformui\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\departmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\winformui\\studentsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\studentsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\winformui\\instructorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\instructorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\winformui\\departmentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\departmentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\dal\\studentenrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|solutionrelative:dal\\studentenrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\dal\\exer3dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|solutionrelative:dal\\exer3dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\dal\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|solutionrelative:dal\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\dal\\studentenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|solutionrelative:dal\\studentenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C7FE6F-2B44-40BF-8C23-DBCCF1194D3A}|BLL\\BLL.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\bll\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C7FE6F-2B44-40BF-8C23-DBCCF1194D3A}|BLL\\BLL.csproj|solutionrelative:bll\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C7FE6F-2B44-40BF-8C23-DBCCF1194D3A}|BLL\\BLL.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\bll\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C7FE6F-2B44-40BF-8C23-DBCCF1194D3A}|BLL\\BLL.csproj|solutionrelative:bll\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\dal\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|solutionrelative:dal\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|solutionrelative:dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\winformui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4548D820-94DA-4566-961E-068DBF59FEB3}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C7FE6F-2B44-40BF-8C23-DBCCF1194D3A}|BLL\\BLL.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\bll\\studentenrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C7FE6F-2B44-40BF-8C23-DBCCF1194D3A}|BLL\\BLL.csproj|solutionrelative:bll\\studentenrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C7FE6F-2B44-40BF-8C23-DBCCF1194D3A}|BLL\\BLL.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\bll\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C7FE6F-2B44-40BF-8C23-DBCCF1194D3A}|BLL\\BLL.csproj|solutionrelative:bll\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C7FE6F-2B44-40BF-8C23-DBCCF1194D3A}|BLL\\BLL.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\bll\\instructorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C7FE6F-2B44-40BF-8C23-DBCCF1194D3A}|BLL\\BLL.csproj|solutionrelative:bll\\instructorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C7FE6F-2B44-40BF-8C23-DBCCF1194D3A}|BLL\\BLL.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\bll\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C7FE6F-2B44-40BF-8C23-DBCCF1194D3A}|BLL\\BLL.csproj|solutionrelative:bll\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\dal\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|solutionrelative:dal\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\dal\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|solutionrelative:dal\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\dal\\instructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|solutionrelative:dal\\instructorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\dal\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|solutionrelative:dal\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\dal\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|solutionrelative:dal\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\dal\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|solutionrelative:dal\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\dal\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C4062D1-A479-4743-84FD-15C62EB92DC2}|DAL\\DAL.csproj|solutionrelative:dal\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 386,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentEnrollmentForm.Designer.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\StudentEnrollmentForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\StudentEnrollmentForm.Designer.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\StudentEnrollmentForm.Designer.cs",
+              "RelativeToolTip": "WinFormUI\\StudentEnrollmentForm.Designer.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAIwKcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T05:18:02.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentEnrollmentForm.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\StudentEnrollmentForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\StudentEnrollmentForm.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\StudentEnrollmentForm.cs",
+              "RelativeToolTip": "WinFormUI\\StudentEnrollmentForm.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAE8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T05:14:58.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentEnrollmentForm.cs [Design]",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\StudentEnrollmentForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\StudentEnrollmentForm.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\StudentEnrollmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T05:12:53.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseForm.Designer.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\CourseForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\CourseForm.Designer.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\CourseForm.Designer.cs",
+              "RelativeToolTip": "WinFormUI\\CourseForm.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T04:43:05.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseForm.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\CourseForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\CourseForm.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\CourseForm.cs",
+              "RelativeToolTip": "WinFormUI\\CourseForm.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAwFQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T04:42:58.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StudentsForm.Designer.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\StudentsForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\StudentsForm.Designer.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\StudentsForm.Designer.cs",
+              "RelativeToolTip": "WinFormUI\\StudentsForm.Designer.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAIwK4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T04:39:25.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentsForm.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\StudentsForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\StudentsForm.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\StudentsForm.cs",
+              "RelativeToolTip": "WinFormUI\\StudentsForm.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAowEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T04:39:18.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseForm.cs [Design]",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\CourseForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\CourseForm.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\CourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T05:22:30.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "InstructorForm.Designer.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\InstructorForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\InstructorForm.Designer.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\InstructorForm.Designer.cs",
+              "RelativeToolTip": "WinFormUI\\InstructorForm.Designer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA1wCkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T04:29:23.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InstructorForm.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\InstructorForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\InstructorForm.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\InstructorForm.cs",
+              "RelativeToolTip": "WinFormUI\\InstructorForm.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAwFAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T04:29:16.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InstructorForm.cs [Design]",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\InstructorForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\InstructorForm.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\InstructorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T04:26:27.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DepartmentForm.Designer.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\DepartmentForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\DepartmentForm.Designer.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\DepartmentForm.Designer.cs",
+              "RelativeToolTip": "WinFormUI\\DepartmentForm.Designer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwHEAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T04:11:57.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DepartmentForm.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\DepartmentForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\DepartmentForm.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\DepartmentForm.cs",
+              "RelativeToolTip": "WinFormUI\\DepartmentForm.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T04:09:12.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsForm.cs [Design]",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\StudentsForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\StudentsForm.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\StudentsForm.cs [Design]",
+              "RelativeToolTip": "WinFormUI\\StudentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T04:08:11.034Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentForm.cs [Design]",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\DepartmentForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\DepartmentForm.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\DepartmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T04:05:37.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\MainForm.Designer.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\MainForm.Designer.cs",
+              "RelativeToolTip": "WinFormUI\\MainForm.Designer.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwGAAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:37:02.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\LoginForm.Designer.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\LoginForm.Designer.cs",
+              "RelativeToolTip": "WinFormUI\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:29:39.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\Program.cs",
+              "RelativeToolTip": "WinFormUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:22:49.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\MainForm.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\MainForm.cs",
+              "RelativeToolTip": "WinFormUI\\MainForm.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA9wCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:21:25.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\MainForm.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:19:51.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\LoginForm.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\LoginForm.cs",
+              "RelativeToolTip": "WinFormUI\\LoginForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:16:50.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "App.config",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\App.config",
+              "RelativeDocumentMoniker": "WinFormUI\\App.config",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\App.config",
+              "RelativeToolTip": "WinFormUI\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-29T09:16:13.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StudentEnrollmentService.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\BLL\\StudentEnrollmentService.cs",
+              "RelativeDocumentMoniker": "BLL\\StudentEnrollmentService.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\BLL\\StudentEnrollmentService.cs",
+              "RelativeToolTip": "BLL\\StudentEnrollmentService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:15:19.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\BLL\\StudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\StudentService.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\BLL\\StudentService.cs",
+              "RelativeToolTip": "BLL\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:14:49.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\BLL\\CourseService.cs",
+              "RelativeDocumentMoniker": "BLL\\CourseService.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\BLL\\CourseService.cs",
+              "RelativeToolTip": "BLL\\CourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:14:22.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "InstructorService.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\BLL\\InstructorService.cs",
+              "RelativeDocumentMoniker": "BLL\\InstructorService.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\BLL\\InstructorService.cs",
+              "RelativeToolTip": "BLL\\InstructorService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:13:51.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\BLL\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "BLL\\DepartmentService.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\BLL\\DepartmentService.cs",
+              "RelativeToolTip": "BLL\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:12:56.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\BLL\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\UserService.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\BLL\\UserService.cs",
+              "RelativeToolTip": "BLL\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:12:34.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentEnrollmentRepository.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\StudentEnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\StudentEnrollmentRepository.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\StudentEnrollmentRepository.cs",
+              "RelativeToolTip": "DAL\\StudentEnrollmentRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:11:19.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\StudentRepository.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\StudentRepository.cs",
+              "RelativeToolTip": "DAL\\StudentRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:10:56.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\CourseRepository.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\CourseRepository.cs",
+              "RelativeToolTip": "DAL\\CourseRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:10:30.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "InstructorRepository.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\InstructorRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\InstructorRepository.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\InstructorRepository.cs",
+              "RelativeToolTip": "DAL\\InstructorRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:10:04.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DepartmentRepository.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\DepartmentRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\DepartmentRepository.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\DepartmentRepository.cs",
+              "RelativeToolTip": "DAL\\DepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:09:03.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\UserRepository.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\UserRepository.cs",
+              "RelativeToolTip": "DAL\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:08:37.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Exer3DbContext.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\Exer3DbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Exer3DbContext.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\Exer3DbContext.cs",
+              "RelativeToolTip": "DAL\\Exer3DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:08:06.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StudentEnrollment.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\StudentEnrollment.cs",
+              "RelativeDocumentMoniker": "DAL\\StudentEnrollment.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\StudentEnrollment.cs",
+              "RelativeToolTip": "DAL\\StudentEnrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:07:40.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Student.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\Student.cs",
+              "RelativeDocumentMoniker": "DAL\\Student.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\Student.cs",
+              "RelativeToolTip": "DAL\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:07:18.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Course.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\Course.cs",
+              "RelativeDocumentMoniker": "DAL\\Course.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\Course.cs",
+              "RelativeToolTip": "DAL\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:06:57.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\Instructor.cs",
+              "RelativeDocumentMoniker": "DAL\\Instructor.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\Instructor.cs",
+              "RelativeToolTip": "DAL\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:06:36.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Department.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\Department.cs",
+              "RelativeDocumentMoniker": "DAL\\Department.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\Department.cs",
+              "RelativeToolTip": "DAL\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:06:03.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "User.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\User.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\DAL\\User.cs",
+              "RelativeToolTip": "DAL\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:05:28.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\LoginForm.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\HW3App\\WinFormUI\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:59:38.292Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 83,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

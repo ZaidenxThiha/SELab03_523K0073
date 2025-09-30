@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D00ED870-14F3-47B2-B58D-AA77B5D6469C}|DAL\\DAL.csproj|C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D00ED870-14F3-47B2-B58D-AA77B5D6469C}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA47C11-EAE2-48BB-96BA-8A3629934E64}|WinFormUI\\WinFormUI.csproj|C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\winformui\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAA47C11-EAE2-48BB-96BA-8A3629934E64}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|WinFormUI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DC7333-51F7-45D9-8111-09FC6B56AF00}|BLL\\BLL.csproj|C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\bll\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DC7333-51F7-45D9-8111-09FC6B56AF00}|BLL\\BLL.csproj|solutionrelative:bll\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00ED870-14F3-47B2-B58D-AA77B5D6469C}|DAL\\DAL.csproj|C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\dal\\exer1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00ED870-14F3-47B2-B58D-AA77B5D6469C}|DAL\\DAL.csproj|solutionrelative:dal\\exer1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00ED870-14F3-47B2-B58D-AA77B5D6469C}|DAL\\DAL.csproj|C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\dal\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00ED870-14F3-47B2-B58D-AA77B5D6469C}|DAL\\DAL.csproj|solutionrelative:dal\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00ED870-14F3-47B2-B58D-AA77B5D6469C}|DAL\\DAL.csproj|C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\dal\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00ED870-14F3-47B2-B58D-AA77B5D6469C}|DAL\\DAL.csproj|solutionrelative:dal\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA47C11-EAE2-48BB-96BA-8A3629934E64}|WinFormUI\\WinFormUI.csproj|C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\winformui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA47C11-EAE2-48BB-96BA-8A3629934E64}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA47C11-EAE2-48BB-96BA-8A3629934E64}|WinFormUI\\WinFormUI.csproj|C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\winformui\\customerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA47C11-EAE2-48BB-96BA-8A3629934E64}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\customerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA47C11-EAE2-48BB-96BA-8A3629934E64}|WinFormUI\\WinFormUI.csproj|C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\winformui\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAA47C11-EAE2-48BB-96BA-8A3629934E64}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAA47C11-EAE2-48BB-96BA-8A3629934E64}|WinFormUI\\WinFormUI.csproj|c:\\mac\\home\\desktop\\se lab\\selab3\\exer1app\\winformui\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 386,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\DAL\\App.config",
+              "RelativeDocumentMoniker": "DAL\\App.config",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\DAL\\App.config",
+              "RelativeToolTip": "DAL\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-27T09:51:39.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WinFormUI",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\WinFormUI\\WinFormUI.csproj",
+              "RelativeDocumentMoniker": "WinFormUI\\WinFormUI.csproj",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\WinFormUI\\WinFormUI.csproj",
+              "RelativeToolTip": "WinFormUI\\WinFormUI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-22T16:05:56.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\WinFormUI\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\Program.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\WinFormUI\\Program.cs",
+              "RelativeToolTip": "WinFormUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T15:52:10.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerForm.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\WinFormUI\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\CustomerForm.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\WinFormUI\\CustomerForm.cs",
+              "RelativeToolTip": "WinFormUI\\CustomerForm.cs",
+              "ViewState": "AgIAAEIAAABQmZmZmVkiwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T15:38:05.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerForm.Designer.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\WinFormUI\\CustomerForm.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\CustomerForm.Designer.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\WinFormUI\\CustomerForm.Designer.cs",
+              "RelativeToolTip": "WinFormUI\\CustomerForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T15:16:51.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\BLL\\CustomerService.cs",
+              "RelativeDocumentMoniker": "BLL\\CustomerService.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\BLL\\CustomerService.cs",
+              "RelativeToolTip": "BLL\\CustomerService.cs",
+              "ViewState": "AgIAAA4AAAAABQAAAIAgwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T15:04:29.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exer1DbContext.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\DAL\\Exer1DbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Exer1DbContext.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\DAL\\Exer1DbContext.cs",
+              "RelativeToolTip": "DAL\\Exer1DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T15:00:17.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\DAL\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\CustomerRepository.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\DAL\\CustomerRepository.cs",
+              "RelativeToolTip": "DAL\\CustomerRepository.cs",
+              "ViewState": "AgIAABQAAAAAWGlmZmbevxAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T14:57:32.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\DAL\\Customer.cs",
+              "RelativeDocumentMoniker": "DAL\\Customer.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\DAL\\Customer.cs",
+              "RelativeToolTip": "DAL\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T14:56:43.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\WinFormUI\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\CustomerForm.cs",
+              "ToolTip": "C:\\Mac\\Home\\Desktop\\SE LAB\\SELab3\\Exer1App\\WinFormUI\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "WinFormUI\\CustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T14:52:49.51Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 83,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

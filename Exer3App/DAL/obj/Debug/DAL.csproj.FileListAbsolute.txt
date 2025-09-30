@@ -1,0 +1,12 @@
+Z:\Desktop\SE LAB\SELab3\Exer3App\DAL\bin\Debug\DAL.dll.config
+Z:\Desktop\SE LAB\SELab3\Exer3App\DAL\bin\Debug\DAL.dll
+Z:\Desktop\SE LAB\SELab3\Exer3App\DAL\bin\Debug\DAL.pdb
+Z:\Desktop\SE LAB\SELab3\Exer3App\DAL\bin\Debug\EntityFramework.dll
+Z:\Desktop\SE LAB\SELab3\Exer3App\DAL\bin\Debug\EntityFramework.SqlServer.dll
+Z:\Desktop\SE LAB\SELab3\Exer3App\DAL\bin\Debug\EntityFramework.xml
+Z:\Desktop\SE LAB\SELab3\Exer3App\DAL\bin\Debug\EntityFramework.SqlServer.xml
+Z:\Desktop\SE LAB\SELab3\Exer3App\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+Z:\Desktop\SE LAB\SELab3\Exer3App\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+Z:\Desktop\SE LAB\SELab3\Exer3App\DAL\obj\Debug\DAL.csproj.Up2Date
+Z:\Desktop\SE LAB\SELab3\Exer3App\DAL\obj\Debug\DAL.dll
+Z:\Desktop\SE LAB\SELab3\Exer3App\DAL\obj\Debug\DAL.pdb

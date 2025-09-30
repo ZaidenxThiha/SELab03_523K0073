@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCF0F1D-BE09-405A-9ED5-68BF2F107E8E}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\winformui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8DCF0F1D-BE09-405A-9ED5-68BF2F107E8E}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCF0F1D-BE09-405A-9ED5-68BF2F107E8E}|WinFormUI\\WinFormUI.csproj|z:\\desktop\\se lab\\selab3\\exer2app\\winformui\\loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{8DCF0F1D-BE09-405A-9ED5-68BF2F107E8E}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCF0F1D-BE09-405A-9ED5-68BF2F107E8E}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\winformui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCF0F1D-BE09-405A-9ED5-68BF2F107E8E}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCF0F1D-BE09-405A-9ED5-68BF2F107E8E}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\winformui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCF0F1D-BE09-405A-9ED5-68BF2F107E8E}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CEBF51-8915-446C-8863-8CCF465431E6}|BLL\\BLL.csproj|Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\bll\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95CEBF51-8915-446C-8863-8CCF465431E6}|BLL\\BLL.csproj|solutionrelative:bll\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C2DDDD-07BF-4404-A75E-351365293804}|DAL\\DAL.csproj|Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\dal\\exer2dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C2DDDD-07BF-4404-A75E-351365293804}|DAL\\DAL.csproj|solutionrelative:dal\\exer2dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C2DDDD-07BF-4404-A75E-351365293804}|DAL\\DAL.csproj|Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C2DDDD-07BF-4404-A75E-351365293804}|DAL\\DAL.csproj|solutionrelative:dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C2DDDD-07BF-4404-A75E-351365293804}|DAL\\DAL.csproj|Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\dal\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C2DDDD-07BF-4404-A75E-351365293804}|DAL\\DAL.csproj|solutionrelative:dal\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCF0F1D-BE09-405A-9ED5-68BF2F107E8E}|WinFormUI\\WinFormUI.csproj|Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\winformui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8DCF0F1D-BE09-405A-9ED5-68BF2F107E8E}|WinFormUI\\WinFormUI.csproj|solutionrelative:winformui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 386,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.resx",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\WinFormUI\\LoginForm.resx",
+              "RelativeDocumentMoniker": "WinFormUI\\LoginForm.resx",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\WinFormUI\\LoginForm.resx",
+              "RelativeToolTip": "WinFormUI\\LoginForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-29T07:27:54.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\WinFormUI\\App.config",
+              "RelativeDocumentMoniker": "WinFormUI\\App.config",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\WinFormUI\\App.config",
+              "RelativeToolTip": "WinFormUI\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-27T09:34:30.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\WinFormUI\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\WinFormUI\\Program.cs",
+              "RelativeToolTip": "WinFormUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T09:33:55.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\WinFormUI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\LoginForm.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\WinFormUI\\LoginForm.cs",
+              "RelativeToolTip": "WinFormUI\\LoginForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAASwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T09:33:06.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\WinFormUI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WinFormUI\\LoginForm.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\WinFormUI\\LoginForm.cs [Design]",
+              "RelativeToolTip": "WinFormUI\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T09:25:16.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\BLL\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\UserService.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\BLL\\UserService.cs",
+              "RelativeToolTip": "BLL\\UserService.cs",
+              "ViewState": "AgIAAAMAAAAAAgAAAIAZwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T09:20:37.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\DAL\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\UserRepository.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\DAL\\UserRepository.cs",
+              "RelativeToolTip": "DAL\\UserRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAABIvRkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T09:17:22.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exer2DbContext.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\DAL\\Exer2DbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Exer2DbContext.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\DAL\\Exer2DbContext.cs",
+              "RelativeToolTip": "DAL\\Exer2DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T09:16:15.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\DAL\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\User.cs",
+              "ToolTip": "Z:\\Desktop\\SE LAB\\SELab3\\Exer2App\\DAL\\User.cs",
+              "RelativeToolTip": "DAL\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T09:14:34.076Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 83,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
