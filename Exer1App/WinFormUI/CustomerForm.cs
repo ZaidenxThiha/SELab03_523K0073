@@ -67,7 +67,7 @@ namespace WinFormUI
                 };
                 _customerService.UpdateCustomer(customer);
                 MessageBox.Show("Customer updated successfully!");
-                LoadCustomers(); // Refresh the DataGridView after updating
+                LoadCustomers(); 
             }
             else
             {
